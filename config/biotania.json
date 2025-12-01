@@ -1,0 +1,10 @@
+{
+  "CONFIG_VERSION_DO_NOT_TOUCH_PLS": "1.0.1",
+  "logWhenLoaded": true,
+  "comment": "Enable or disable any biome individually.",
+  "generateMetamorphicCaves": true,
+  "generateMysticalForest": true,
+  "generateShatteredWastes": true,
+  "generatePetalPastures": true,
+  "generateFelFields": true
+}

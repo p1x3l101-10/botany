@@ -1,0 +1,16 @@
+filename = 'etheria-0.2.7.jar'
+name = 'Etheria'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '24943deeeb286b0c9e11530b6190d8537b0cd451'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6927680
+project-id = 1100499

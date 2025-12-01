@@ -1,0 +1,16 @@
+filename = 'StargateEarlyLoading-0.2-forge.jar'
+name = 'Stargate Early Loading'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.4', '1.20.6' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2ccc883e4db4a33ea48bea51aa13a68ae08bf8a5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6871865
+project-id = 1205356

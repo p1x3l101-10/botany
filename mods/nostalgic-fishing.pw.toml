@@ -1,0 +1,16 @@
+filename = 'nostalgic-fishing-1.20.1.1.jar'
+name = 'Nostalgic Fishing'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fa363308b070969675c8454cd7cec7639828b717a96392dda9e9da4f1cf38db40962396c0494ed013dba066508d3d50023b653b782abcf55d0878e83b97a1c07'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HhcsfmGU/versions/HCoXonY8/nostalgic-fishing-1.20.1.1.jar'
+
+[update.modrinth]
+mod-id = 'HhcsfmGU'
+version = 'HCoXonY8'

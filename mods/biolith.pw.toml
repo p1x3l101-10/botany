@@ -1,0 +1,16 @@
+filename = 'biolith-forge-1.0.1-alpha.1.jar'
+name = 'Biolith'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '44da48562c564cbac3e6380bbe7ffed10a0401bb3dae3b2a53d5bf75c7987feb74dd46ae783513788774a164d9b85653526c76468adb5b7faa757280d5a7c407'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/iGEl6Crx/versions/PRXgw0RP/biolith-forge-1.0.1-alpha.1.jar'
+
+[update.modrinth]
+mod-id = 'iGEl6Crx'
+version = 'PRXgw0RP'

@@ -1,0 +1,16 @@
+filename = 'craftable_eggs-1.0.0-forge-1.20.1.jar'
+name = 'craftable spawn eggs'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '437394a5dac5509e66072f97a427991cf2622b96'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5422854
+project-id = 1035999

@@ -1,0 +1,11 @@
+#TLM: True POWER client settings
+#Set the size of maid's ranking display. (default: 0.018)
+#Range: 0.0 ~ 1.7976931348623157E308
+maid_rank_size = 0.018
+#Set the x pos of maid's ranking display. (default: 8)
+#Range: > -2147483648
+maid_rank_x = 8
+#Set the x pos of maid's ranking display. (default: -28)
+#Range: > -2147483648
+maid_rank_y = -28
+

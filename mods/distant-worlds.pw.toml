@@ -1,0 +1,16 @@
+filename = 'DistantWorlds-Reborn-1.20.1-v1.1.0.1-Beta-Experimental.jar'
+name = 'Distant Worlds'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e614d0d65e095ac511b25c26c6e0127eb9f146a4fde56205f28a5e18e78a607b4adff26fb184a5a5d0b6b40240e861cdf236e6572b5659c111acb0f8e7a96225'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z0aFiDQz/versions/WfvHzcS8/DistantWorlds-Reborn-1.20.1-v1.1.0.1-Beta-Experimental.jar'
+
+[update.modrinth]
+mod-id = 'z0aFiDQz'
+version = 'WfvHzcS8'

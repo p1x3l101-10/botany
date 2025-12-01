@@ -1,0 +1,16 @@
+filename = 'ebintegration-0.1.2.jar'
+name = 'Etheria: Botania Integration'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9d369bde26a40179e2ff244b32e344d5a63a2fec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6656915
+project-id = 1183505

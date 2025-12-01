@@ -1,0 +1,16 @@
+filename = 'mob-spawner-recipe-1.0.jar'
+name = 'Mob Spawner Recipe'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '09a4a324472dff97a77a3ad0aa56f6c900e927f60f0ed1146a6c907e4db562a0d4b0e9265dc59ad0740170406b8425b9715f8f8b919dec3eae0abd86a866d18a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uLP7lWjS/versions/BXcqlbsb/mob-spawner-recipe-1.0.jar'
+
+[update.modrinth]
+mod-id = 'uLP7lWjS'
+version = 'BXcqlbsb'

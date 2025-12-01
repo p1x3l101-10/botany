@@ -1,0 +1,54 @@
+
+#True POWER settings
+["Rank settings"]
+	#SlashBlade Concentration Ranks:
+	#None: 0 ~ 300
+	#D: 300 ~ 600
+	#C: 600 ~ 900
+	#B: 900 ~ 1200
+	#A: 1200 ~ 1500
+	#S: 1500 ~ 1800
+	#SS: 1800 ~ 2100
+	#SSS: 2100 ~ 2400
+	#
+	#Set the rank required for each attempt to enter the powered state. (default: 2100)
+	#Range: 0 ~ 9223372036854775807
+	powered_rank_require = 2100
+	#Set the rank increase for each hit. (default: 30)
+	#Range: 0 ~ 9223372036854775807
+	rank_increase_for_hit = 30
+	#Set the rank increase for killing each living entity. (default: 200)
+	#Range: 0 ~ 9223372036854775807
+	rank_increase_for_kill = 200
+
+["Combo settings"]
+	#Can't move while using some combo. (default: true)
+	can_not_move_while_combo = true
+	#Setting combo no longer affects the timeout of rank. (default: 200)
+	#Range: 0 ~ 9223372036854775807
+	combo_timeout_for_rank_increase = 200
+	#Setting the length of combo list. (default: 5)
+	#Range: 0 ~ 9223372036854775807
+	combo_list_length = 5
+	#Set the damage of Void Slash.(NOT the SA Void Slash!) (default: 2.5)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	void_slash_damage = 2.5
+	#Set the first hit's damage of Void Slash while player is powered.(NOT the SA Void Slash!) (default: 2.8)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	powered_void_slash_damage_first = 2.8
+	#Set the second hit's damage of Void Slash while player is powered.(NOT the SA Void Slash!) (default: 1.2)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	powered_void_slash_damage_second = 1.2
+	#Set the additional number of targets for Judgement Cut while player is powered. (default: 2)
+	#Range: > 0
+	judgement_cut_extra_target = 2
+
+["Other settings"]
+	#Speed of Lock On. (default: 4)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	lock_on_speed = 4.0
+
+["Experimental settings"]
+	#Move forward while using combo. (default: false)
+	step_when_using_combo = false
+

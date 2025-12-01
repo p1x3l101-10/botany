@@ -1,0 +1,16 @@
+filename = 'biotania-1.0.1.jar'
+name = 'Biotania'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0fce09a112c885fb1a070deb93b8f351e23c587e70663d972f3719846d00b56400aad5f6a215d94d2f46af7e99eaae9c478dfbf5da7fe584887bebde8dae22bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BvTAwKjV/versions/SYNIngVc/biotania-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'BvTAwKjV'
+version = 'SYNIngVc'

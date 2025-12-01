@@ -1,0 +1,16 @@
+filename = 'foragersinsight-1.20.1-2.5.(BnB).jar'
+name = "Forager's Insight"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'df2e541c8a52ab7b58ef2fb37b2c9a40b0bd060e7dd08b6a76c89705b8dd13d1a1696f3ec3719b363978094bb5687a29448c7d7576af8e94ab2958974b5869a6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pGSJamiv/versions/2dvM7AbH/foragersinsight-1.20.1-2.5.%28BnB%29.jar'
+
+[update.modrinth]
+mod-id = 'pGSJamiv'
+version = '2dvM7AbH'
