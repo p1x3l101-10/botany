@@ -1871,7 +1871,7 @@ metafile = true
 
 [[files]]
 file = "mods/sgjourney.pw.toml"
-hash = "b507d6cb2e74113fca911bd1f137d7ead827e49f5162ce1d7968ce8000c9a591"
+hash = "f18a7eeca34cee4d8e7b3af6749f0fab56ea1a865bc42a8fc957f3eacd81311a"
 metafile = true
 
 [[files]]
@@ -2155,4 +2155,4 @@ hash = "e0bf8f26955adbe5181b46a7702e63f2df41557325b8623c7276f925ad21ad5c"
 
 [[files]]
 file = "unsup.sig"
-hash = "b2c3d8c413e991134607ceb5c075cb79a57b0ffba66b7796f53238da7f5a5f0a"
+hash = "20f6b1c3a125e35d3a97811ad25e87d960eb452548bdcc4fa426dc2e64cb40c3"
