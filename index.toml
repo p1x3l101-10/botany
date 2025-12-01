@@ -1195,7 +1195,7 @@ metafile = true
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
-hash = "56eee63e74581fa7f36209fd394350bee021732e31d284a2d376d5064ecff54d"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
@@ -1367,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d4107853438a5bb3c7adae5e0d5cadca6823858a560ab1156be09592676a6264"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
