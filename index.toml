@@ -1323,7 +1323,7 @@ metafile = true
 
 [[files]]
 file = "mods/capable-composters.pw.toml"
-hash = "7dd24e4afd37d799b0dfa3ea42d7bc8bda48bf345a0faed2e23d8d2ceb21a58f"
+hash = "ee23f81b48e1e379e62769ced7f4bc90b57b8914bcf2e137b3a4022bc011f5da"
 metafile = true
 
 [[files]]
