@@ -1139,6 +1139,11 @@ hash = "82b607252f52e117894df1ed77c70219b5a1e23534b4a614b93a61f003ad7521"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "55ab212ba17d188a2f95b65d4cf63bbc98c664aa74986b57d288d12e62bac780"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "09fb3b65143a16a4a32382121edd25ae3613042922c65fd7ba66269a3dc3347a"
 metafile = true
@@ -1856,6 +1861,11 @@ metafile = true
 [[files]]
 file = "mods/sgjourney.pw.toml"
 hash = "f18a7eeca34cee4d8e7b3af6749f0fab56ea1a865bc42a8fc957f3eacd81311a"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e4b99d45d1cfb55b0ecd2aa78c56958b57460e63b637448017df60b2412e77d9"
 metafile = true
 
 [[files]]
