@@ -1382,7 +1382,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftableanimals.pw.toml"
-hash = "23f322cdcb2bfaaf63bd110a9bda38cf5c646a64905631b5bbc01c8228ac5779"
+hash = "71b04fa8f16fbc9c484b3c619a9ee414bfd6270df7ce7c4caefc8ebc762aeb87"
 metafile = true
 
 [[files]]
