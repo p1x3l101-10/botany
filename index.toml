@@ -1689,11 +1689,6 @@ hash = "4e043e42e5ee53dde70320a98bf61cb818821bb05a8961f16c07dcfd467d2334"
 metafile = true
 
 [[files]]
-file = "mods/moregates.pw.toml"
-hash = "8cfd008e4145c7ee19b44812b13503380dd73144c35f41ebe52cd0d4adee25dc"
-metafile = true
-
-[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "2375fdd283dbcc9241361a53be2150764860b2a02014b044b39d4795709f35a0"
 metafile = true
