@@ -2100,6 +2100,10 @@ file = "thingpacks/conflicts/data/ad_astra/recipes/alloying/steel_ingot_from_all
 hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
 
 [[files]]
+file = "thingpacks/conflicts/data/ad_astra/recipes/compressor.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
 file = "thingpacks/conflicts/pack.mcmeta"
 hash = "2fb47bb166e3b8beeb10051ebddad983cfa1a7e446c2b8b7cd34d35f53fbb0ec"
 
