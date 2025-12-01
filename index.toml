@@ -1090,6 +1090,11 @@ hash = "77ccd4230f72e14537cc670e621c90200a76f41b2d64bbb4e1e1cacfd9c26822"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "ea506d33fdadff504ef78a2ba2a73a1fd203528996905c4175bd3b8d4f53b837"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "655aa4d91fd03c95e4d0af56fa6fa0df8a5a6da0108cc3db151aa3a21c159942"
 metafile = true
@@ -1409,6 +1414,11 @@ metafile = true
 [[files]]
 file = "mods/foragers-insight.pw.toml"
 hash = "958b89d81dc1c3b51512a509cfc237f395ca791743f057c07c51dc0c75ed3ce9"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "51a92411c991732cb5e81f86754e177bc8fbd4f6d7bb02940e1d4852ca961540"
 metafile = true
 
 [[files]]
@@ -1802,6 +1812,11 @@ hash = "d91407aac4df028555507f6b0dc1cfa709a526ef77e8cbe499310ea3f936543f"
 metafile = true
 
 [[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
+hash = "a6698be55358a88669829c58c954a4d12367039d47e263f07aeb8b0b7287be1f"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "a08f362e037f0d2276e871d1054a78da05730b32744d3f39bc175e4d3fa6e3b5"
 metafile = true
@@ -2140,4 +2155,4 @@ hash = "e0bf8f26955adbe5181b46a7702e63f2df41557325b8623c7276f925ad21ad5c"
 
 [[files]]
 file = "unsup.sig"
-hash = "3f39e144d64619a877c0bc916d49e1a37954d489896256f1324ff94406d87b47"
+hash = "b2c3d8c413e991134607ceb5c075cb79a57b0ffba66b7796f53238da7f5a5f0a"
