@@ -1738,6 +1738,11 @@ hash = "d794db422286e9e1173268263d7b1ab654281e3e589b317494d6762252e6e51a"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
 file = "mods/nostalgic-fishing.pw.toml"
 hash = "29ff07c2291f99ac84b806376e38f7fd16432237bfab9010b8df69db321559ba"
 metafile = true
