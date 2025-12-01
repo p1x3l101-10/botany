@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "autosign/hooks/pre-commit"
-hash = "dbfe6adcf03a3b78a59dc2535b8aaa3e2c1a9ea248bc4b1b7ccb908074c158ce"
-
-[[files]]
-file = "autosign/init"
-hash = "79d540dfb08bf3c968eee57c3e24742de6411653b7cd70a256e5f49c994429d8"
-
-[[files]]
-file = "autosign/signingkey.pub"
-hash = "db1059e40062a06fdd42eaee5836c364b6ba6ddd35dd817f7dee700cdd99d32a"
-
-[[files]]
-file = "autosign/signingkey.sec"
-hash = "9e43629d841877263b4779761afcc9652242914e04c68020f0eab59fcae3c30b"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "0768cedd844cea5d523735dc161309d69e839bfa909870cc5fa258d7c9ee08d5"
 
@@ -2148,11 +2132,3 @@ hash = "960dc050b8c49df7fd4eac1d606f609759a47806c9bef1dee47d8e892cb39a56"
 [[files]]
 file = "unsup.ini"
 hash = "e156110773f9db311a8d59056c8a2337abeee76baa04d6b6dc615fd3b3ac7ce6"
-
-[[files]]
-file = "unsup.ini.sig"
-hash = "e0bf8f26955adbe5181b46a7702e63f2df41557325b8623c7276f925ad21ad5c"
-
-[[files]]
-file = "unsup.sig"
-hash = "20f6b1c3a125e35d3a97811ad25e87d960eb452548bdcc4fa426dc2e64cb40c3"
