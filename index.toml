@@ -1549,11 +1549,6 @@ hash = "098b2b9aaa3d041b6fef4c8733c90984fefcf022a6dab7c900215005fb0f9bc7"
 metafile = true
 
 [[files]]
-file = "mods/immersive-portals-neoforge.pw.toml"
-hash = "4f1032c8772c845dae129f3b000ef91afb8733e93d81571c3d4c971170becc47"
-metafile = true
-
-[[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "e7fe3800678197e0c6df1ea5e32fa32f3fc0ee2f27b84502cd92073b5bcf54e1"
 metafile = true
