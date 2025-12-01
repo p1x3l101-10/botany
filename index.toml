@@ -2096,6 +2096,14 @@ hash = "80e7cea9077ae8d0fc47386db8f45a1e960a170121b56f6483b58f03c74f4e1c"
 metafile = true
 
 [[files]]
+file = "thingpacks/conflicts/data/ad_astra/recipes/alloying/steel_ingot_from_alloying_iron_ingot_and_coals.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "thingpacks/conflicts/pack.mcmeta"
+hash = "2fb47bb166e3b8beeb10051ebddad983cfa1a7e446c2b8b7cd34d35f53fbb0ec"
+
+[[files]]
 file = "thingpacks/gog-fixes/data/botania/loot_tables/fel_blaze.json"
 hash = "1d087bd0da42e96af9751ee625a0546a22a4ae342588bae626deeaafe67c4f6b"
 
